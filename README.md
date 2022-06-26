@@ -10,4 +10,4 @@
 - Insert your OMDB API key into `.env` file so that it looks like this: `REACT_APP_API_KEY = abcd1234` 
 - Run `npm start`
 
-The API will now be served at your localhost or http://localhost:3000/# Franscape
+The API will now be served at your localhost or http://localhost:3000/
